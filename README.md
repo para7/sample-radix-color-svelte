@@ -1,3 +1,5 @@
+for zenn: https://zenn.dev/para7/articles/1b9af276afe2c4
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
